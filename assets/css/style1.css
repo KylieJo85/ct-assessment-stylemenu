@@ -53,27 +53,28 @@ h2 {margin: 0;}
 #starters h2
 {
 color: #6d4c41;
+font-variant-caps: small-caps;
 }
 
 #soupssalads h2
 {
     color: #6d4c41;
+    font-variant-caps: small-caps;
 }
 
 #entrees h2
 {
     color: #6d4c41;
+    font-variant-caps: small-caps;
 }
 
 #desserts h2
 {
     color: #6d4c41;
+    font-variant-caps: small-caps;
 }
 
-dt
-{
-    font-variant-caps: small-caps
-}
+
 
 /* 
     Add a CSS ruleset targeting the name of each menu item to accomplish the following:
